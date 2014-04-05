@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;tn.edu.esprit.eskimoocCliebt&apos; to &apos;tn.edu.esprit.eskimoocClient&apos;&#x0D;&#x0A;- Original element: &apos;tn.edu.esprit.eskimoocCliebt&apos;&#x0D;&#x0A;- Renamed element: &apos;tn.edu.esprit.eskimoocCliebt&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;tn.edu.esprit.eskimoocCliebt&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=tn.edu.esprit.eskimoocCliebt" name="tn.edu.esprit.eskimoocClient" references="true" stamp="1396550100747" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+package tn.edu.esprit.eskimoocClient.junitTest;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class TestGuestRelationervices {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

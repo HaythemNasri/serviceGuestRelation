@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="tn.edu.esprit.eskimooc.services.impl.GuestRelation"/>
+<fullyQualifiedTypeName name="tn.edu.esprit.eskimooc.services.interfaces.GuestRelationRemote"/>
+</qualifiedTypeNameHistroy>

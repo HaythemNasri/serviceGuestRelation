@@ -1,0 +1,22 @@
+package tn.edu.esprit.eskimoocClient.junitTest;
+
+import static org.junit.Assert.*;
+
+import javax.naming.Context;
+
+import org.junit.Test;
+
+import tn.edu.esprit.eskimooc.services.interfaces.GuestRelationRemote;
+
+public class TestGuestRelationervices {
+ 
+	private Context context;
+	
+	private GuestRelationRemote guestRelationRemote;
+	
+	public void init()
+	{
+		
+	}
+
+}

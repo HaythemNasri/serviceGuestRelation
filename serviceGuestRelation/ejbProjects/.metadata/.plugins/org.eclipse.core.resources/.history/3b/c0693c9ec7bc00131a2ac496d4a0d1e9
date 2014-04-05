@@ -1,0 +1,26 @@
+package tn.edu.esprit.eskimoocClient.junitTest;
+
+import static org.junit.Assert.*;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import tn.edu.esprit.eskimooc.services.interfaces.GuestRelationRemote;
+
+public class TestGuestRelationervices {
+ 
+	private Context context;
+	
+	private GuestRelationRemote guestRelationRemote;
+	
+	
+	@Before
+	public void init()
+	{
+		context = new InitialContext();//situé dans la racine du l'arbre JDI
+	}
+
+}

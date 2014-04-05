@@ -1,0 +1,12 @@
+package tn.edu.esprit.eskimoocClient;
+
+import javax.naming.Context;
+
+
+
+public class TestGuestRelation {
+	
+	public static void main(String[] args) {
+	Context context
+	}
+}

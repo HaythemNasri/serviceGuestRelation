@@ -1,0 +1,9 @@
+package tn.edu.esprit.eskimoocClient;
+
+
+
+public class TestGuestRelation {
+	public static void main(String[] args) {
+	
+	}
+}
